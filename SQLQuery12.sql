@@ -1,2 +1,0 @@
-﻿ALTER TABLE Borrowers
-ADD Phone VARCHAR(20);
